@@ -1,0 +1,85 @@
+.contenido{
+    margin-top: 30px;
+}
+
+.componenteEntregables{
+    background-color: thistle;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    color: rgb(247, 239, 239);
+    align-items: center;
+    text-align: center;
+    background-color:grey;
+    font-family: Verdana, sans-serif;
+    font-style: italic;
+}
+
+
+.imagenContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.imagen {
+    width: 70%; 
+    height: 300px; 
+    background-image: url("https://static.nationalgeographicla.com/files/styles/image_3200/public/006-library-biblioteca-angelica-a-roma_0002.webp?w=1450&h=1162&q=100"); 
+    background-size:cover;
+    background-position:center;
+}
+
+.titulo {
+    padding-top: 60px;
+}
+
+h1{
+    margin: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.formSetEntregable {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formSetCurso {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formSetProfesor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formSetEstudiante {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+button {
+    margin-bottom: 20px;
+    margin-top: 25px;
+}
+
+li {
+    list-style-type: none;
+    margin-bottom: 4px;
+}
