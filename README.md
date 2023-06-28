@@ -1,7 +1,7 @@
-﻿# tercerpre-entregaChehda
-# Proyecto Coding School
+﻿# tercerpre-entregaGarcia
+# Proyecto EduRead
 
-Este proyecto es una aplicación web desarrollada con Django y Bootstrap. Proporciona información sobre cursos, entregables, profesores y estudiantes en el contexto de la plataforma educativa de Coding School.
+Este proyecto es una aplicación web desarrollada con Django y Bootstrap. Proporciona información sobre cursos, entregables, profesores y estudiantes en el contexto de la plataforma educativa de EduRead.
 
 ## Instalación
 
